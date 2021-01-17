@@ -1,0 +1,7 @@
+C:\Users\Vukasin\source\repos\HotelReservations\HotelReservations\bin\Debug\HotelReservations.exe.config
+C:\Users\Vukasin\source\repos\HotelReservations\HotelReservations\bin\Debug\HotelReservations.exe
+C:\Users\Vukasin\source\repos\HotelReservations\HotelReservations\bin\Debug\HotelReservations.pdb
+C:\Users\Vukasin\source\repos\HotelReservations\HotelReservations\obj\Debug\HotelReservations.csprojAssemblyReference.cache
+C:\Users\Vukasin\source\repos\HotelReservations\HotelReservations\obj\Debug\HotelReservations.csproj.CoreCompileInputs.cache
+C:\Users\Vukasin\source\repos\HotelReservations\HotelReservations\obj\Debug\HotelReservations.exe
+C:\Users\Vukasin\source\repos\HotelReservations\HotelReservations\obj\Debug\HotelReservations.pdb
